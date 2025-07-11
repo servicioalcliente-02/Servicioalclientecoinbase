@@ -117,7 +117,12 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p> Greetings, and welcome to Coinbase Customer Support Services. How may we assist you today?
+The Coinbase Support team is responsible for:
+	1.	Answering questions about Coinbase services and features.
+	2.	Resolving issues with accounts, transactions, and payments.
+	3.	Providing guidance on security, verification, and compliance.
+4.	Assisting with technical problems, such as login or connectivity issues...</p>
           </div>
         `
         break
